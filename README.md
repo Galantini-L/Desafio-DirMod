@@ -2,7 +2,7 @@
 ### Autor: Lautaro Galantini
 
 ## Descripción
-Los archivos subido corresponden a las respuestas de un desafio a resolver para la empresa DirMod. El archivo "desafío_DirMod.py" contiene el código con
+Los archivos subido corresponden a las respuestas de un desafio a resolver para una empresa a la que apliqué. El archivo "desafío.py" contiene el código con
 la resolución a la prueba. En "test_desafío" corresponde a test unitarios hechos con la libreria unittest de python.
 
 
