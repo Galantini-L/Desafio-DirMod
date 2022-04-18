@@ -1,4 +1,4 @@
-# Desafio-DirMod
+# Desafio Entrevista Tecnica
 ### Autor: Lautaro Galantini
 
 ## Descripción
